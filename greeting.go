@@ -1,4 +1,4 @@
-package greeting
+package gogreetings
 
 func Hello(s string) string {
 	return "Hello" + s
